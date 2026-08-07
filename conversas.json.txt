@@ -1,0 +1,11 @@
+{
+  "oi": ["Oi sumido 😂", "E aí família!", "Fala comigo pai", "Salveee", "Chegou quem?"],
+  "opa": ["Opaaa", "Eae", "Tamo junto"],
+  "tchau": ["Já vai? Fica mais um pouco", "Tchau benção", "Volta logo"],
+  "bom dia": ["Bom dia família! Bora pra cima", "Dia de green 💜", "Bom dia tropa"],
+  "boa noite": ["Dorme com Deus", "Boa noite tropa", "Descansa guerreiro"],
+  "triste": ["Opa, calma. Amanhã é outro dia", "Conta pro bot o que houve", "Força aí"],
+  "feliz": ["Aeeee, felicidade contagia!", "Tamo junto na alegria", "Boa demais"],
+  "kkk": ["Kkkkk riu do que?", "Hahaha", "Risos são de graça"],
+  "tudo bem": ["Tudo ótimo e com você?", "Na paz, e você?"]
+}
